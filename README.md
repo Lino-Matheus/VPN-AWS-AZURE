@@ -1,8 +1,8 @@
-# VPN-AWS-AZURE
+[PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.pdf](https://github.com/user-attachments/files/28952619/PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.pdf)# VPN-AWS-AZURE
 
 ![multi](https://github.com/user-attachments/assets/69a471e2-73a8-40e9-96b8-763c65d6da39)
 
-[PASSO - PASSO - PROJETO MULTICLOUD VPN AZURE TO AWS.docx](https://github.com/user-attachments/files/20782648/PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.docx)
+[PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.pdf](https://github.com/user-attachments/files/28952618/PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.pdf)
 
 
 ☁ Configuração Azure e AWS - Passo a Passo ☁

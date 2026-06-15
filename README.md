@@ -1,4 +1,4 @@
-[PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.pdf](https://github.com/user-attachments/files/28952619/PASSO.-.PASSO.-.PROJETO.MULTICLOUD.VPN.AZURE.TO.AWS.pdf)# VPN-AWS-AZURE
+# VPN-AWS-AZURE
 
 ![multi](https://github.com/user-attachments/assets/69a471e2-73a8-40e9-96b8-763c65d6da39)
 
